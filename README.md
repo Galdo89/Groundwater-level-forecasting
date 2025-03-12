@@ -1,7 +1,4 @@
----
-title: README.md
 
----
 
 <img align="left" width="500"  src="figures/vrai-logo-b.png" style="margin-right:-230px"></br></br></br></br>
 <h1> Groundwater level forecasting using data driven models and vadose zone: A comparative analysis of ARIMA, SARIMAX, Prophet, and NeuralProphet</h1>
